@@ -1,6 +1,6 @@
 # Установка и обновление
 
-Primo RPA Orchestrator (далее в тексте - Orchestrator, Оркестратор) может быть установлен на операционных системах семейств Windows (Windows 2019 Server) и Linux (Astra Linux, Cent OS, РЕДОС).
+Primo RPA Orchestrator (далее в тексте - Orchestrator, Оркестратор) может быть установлен на операционных системах семейств Windows (Windows 2019 Server, Windows 2016 Server) и Linux (Astra Linux 1.7, Cent OS 8, РЕДОС).
 
 
 ## Установка на Linux
